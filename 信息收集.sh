@@ -39,7 +39,11 @@ ident-user-enum:0 查询身份识别服务（113/TCP），以确定监听目标�
 inspy:0 两种功能：TechSpy为目标公司使用的技术抓取 LinkedIn 工作清单；EmpSpy 为在提供的公司工作的员工抓取 LinkedIn。
 intrace：0 在存在的TCP连接上的路由跟踪程序，可用于网络侦察和防火墙绕过。
 ibd:0 负载均衡检测器，检测给定的域是否使用DNS或者HTTP负载均衡
-maltego：0 一个非常强大扫描的工具，恩，就这样
+Maltego Teeth：0 即 maltego 一个非常强大的信息收集工具
+	所有和安全相关的工作的信息收集
+	通过直观地显示搜索项目之间的互联链接来帮助您思考过程
+	提供更多更强力的搜索，给你更智能的结果
+	帮助发现隐藏信息
 masscan：50 最快的端口扫描器，为了避免与本地端口冲突，使用-S选项
 metagoofil:0 信息收集工具（在Google上搜索），提取目标公司公共文档（pdf,doc,xls,ppt,docx,pptx,xlsx）的元数据（metadata）
 miranda：0 发现、查询和交流 UPNP（网络设备发现协议）设备，尤其是网关设备（aka，router）
