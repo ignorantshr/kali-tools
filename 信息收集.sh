@@ -66,7 +66,7 @@ osrframwork：0 一组用于执行开源智能任务的库，包括对与用户�
 p0f：0 监视tcp/ip的工具，利用通信指纹机制识别tcp/ip通信背后的玩家
 parsero:0 web服务器robots.txt文件检测工具，不想被搜索引擎找到的文件
 recon-ng:0 多功能的web识别框架，kali给的例子已经过时了
-setoolkit:0 SET（Social-Engineer Toolkit），为Social-Engineering设计的渗透测试框架。看起来很厉害，就是不会用
+setoolkit:0 SET（Social-Engineer Toolkit），为Social-Engineering设计的渗透测试框架。短时间内攻击。有多种可选的攻击方式
 smbmap:0 列举整个域中的samba（在局域网上共享文件和打印机的一种通信协议）共享驱动，感觉没什么用
 smtp-user-name：0 通过SMTP服务（发送邮件）列举在Solaris（Unix的衍生版本）上面操作系统及级别的用户账户
 snmp-chek：0 跟snmpwalk一样，列举出SNMP设备并且有非常友好的可读性，对渗透测试和系统监视很有用。

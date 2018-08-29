@@ -3,6 +3,7 @@ kali-tools
 开发工具
 
 explot：漏洞，利用，开发
+payload:病毒通常会做一些有害的或者恶性的动作。在病毒代码中实现这个功能的部分叫做“有效负载”（payload）
 
 Armitage：0 团队协作工具
 	teamserver：0 团队协作服务器
@@ -27,3 +28,10 @@ Metasploit:0 发现、利用、验证漏洞的渗透测试平台
 	msfrpc:0 连接到一个Metasploit的RPC实例
 	msfrpcd:0 提供一个到Metasploit的RPC接口
 	msfvenom：0 独立的 Metasploit payload generator。还体会不到这是什么意思
+msfpc:0 Msfvenom Payload Creator (MPC)
+routersploit:0 专门用于嵌入式设备的开发框架。包含几个模块来支持渗透测试：exploit（确认漏洞）、creds（测试网络服务）、scanners（检查目标对于任何攻击是否薄弱）
+SET：0 即setoolkit。见 信息收集.sh
+shellnoob:0 shell脚本编辑器，支持从不同的语言之间的转换
+sqlmap:0 见 漏洞分析.sh
+THC-IPV6:0 见信息收集.sh
+yersinia:0 见漏洞分析.sh
